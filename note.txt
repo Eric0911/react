@@ -1,0 +1,2 @@
+cd my-react-app >>把所處資料夾更換成my-react-app
+npm run dev >>開啟開發伺服器
